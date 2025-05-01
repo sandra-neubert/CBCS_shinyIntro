@@ -1,3 +1,7 @@
+# CBCS Coding Club: Introduction to R Shiny
+# Sandra Neubert
+# 02/05/2025
+
 library(shiny)
 library(shinydashboard)
 library(wdpar)
