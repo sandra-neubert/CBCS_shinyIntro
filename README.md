@@ -11,6 +11,6 @@ Here are some useful links for working with shiny:
 * [Outstanding User Interfaces with Shiny by David Granjon](https://unleash-shiny.rinterface.com/)
 * [Engineering Production-Grade Shiny Apps by Colin Fay et al.](https://engineering-shiny.org/)
 * [Building Shiny Appy by Dean Attali](https://deanattali.com/blog/building-shiny-apps-tutorial/)
-  
-
+<br>
+If you have any questions, please feel free to reach out at s.neubert@uq.edu.au
 
